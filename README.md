@@ -2,7 +2,7 @@
 My first repository
 # My Favorite Series/Movie: The Hunger Games
 
-![The Hunger Games Logo](https://static.wikia.nocookie.net/thehungergames/images/2/2e/Finalhungergamepostersmall.jpg/revision/latest?cb=20151003034426))
+![The Hunger Games Logo](https://dotcomstories.com/wp-content/uploads/2022/07/The-Hunger-Games-Movies-in-Order.jpg)
 
 ## Main Characters
 * **Katniss Everdeen:** The strong and resourceful protagonist.
